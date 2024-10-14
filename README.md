@@ -1,4 +1,4 @@
-# Portfolio 7: MapReduce Analysis on Olympic Athletes
+# Portfolio 6: MapReduce Analysis on Olympic Athletes
 
 This repository contains the Python code and outputs for MapReduce analysis. The assignment focuses on using the MapReduce programming model to analyze Olympic athlete's data from 1980 to 2020.
 
