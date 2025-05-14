@@ -52,5 +52,6 @@ The objective of the assignment is to curate and analyze data from the Olympic h
 
 ## Contact Information
 
-For any questions or further information, feel free to contact me at [nafialhasan@gmail.com].
+For any queries or further information, feel free to contact me at [nafialhasan@gmail.com](mailto:nafialhasan@gmail.com).  
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/nafialhasan/).
 
